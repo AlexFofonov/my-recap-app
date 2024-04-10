@@ -1,0 +1,39 @@
+// Base
+
+"base.edit" = "Редактировать";
+"base.delete" = "Удалить";
+"base.cancel" = "Отменить";
+"base.complete" = "Завершить";
+"base.save" = "Сохранить";
+
+"base.resume.title" = "Резюме";
+"base.resume.main" = "Основное";
+"base.resume.name" = "Имя";
+"base.resume.age" = "Возраст";
+"base.resume.birthday" = "Дата рождения";
+"base.resume.job" = "Должность";
+"base.resume.contacts" = "Контакты";
+"base.resume.contact" = "Ресурс";
+"base.resume.link" = "Контакт";
+"base.resume.fields" = "Информация";
+"base.resume.field" = "Поле";
+
+// Main
+
+"main.resume-section.empty" = "Время создать свое резюме!";
+
+"main.toolbar.title" = "MyRecap";
+
+"main.confirmation-dialog.edit-resume" = "Редактировать резюме";
+"main.confirmation-dialog.delete-resume" = "Удалить резюме";
+
+"main.delete-resume-alert.title" = "Удаление резюме";
+"main.delete-resume-alert.description" = "Резюме будет стерто без возможности восстановления";
+
+// ResumeEditor
+
+"resume-editor.toolbar.title" = "Редактор резюме";
+
+"resume-editor.select-photo" = "Выбрать фото";
+"resume-editor.add-contact" = "Добавить контакт";
+"resume-editor.add-field" = "Добавить информацию";
