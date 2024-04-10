@@ -7,3 +7,5 @@
   - воспользоваться самыми свежими (зачастую пока еще сырыми) технологиями iOS SDK
 
 Стек: SwiftUI, MVVM, DI, SwiftData, PhotosUI
+
+Демо: https://disk.yandex.ru/i/AZWfj37T0pMD3A
